@@ -1,27 +1,28 @@
-# HTML, CSS, JS (Auto Refresh)
+This Level 1 (Task 2) of my internship with Codsoft which is a landing page.It includes the use of HTML, CSS and it represents the features of Honda Civic Type-R. It includes the use of html tags such as audio, video, img, nav,footer etc. It includes the use of CSS styles like grid, flex, background styles, use of Keyframe animations,hover etc. audio tags are used to add background audio which plays when the page is loaded. video tags are used to display promotion and visual experience of the vehicle.The footer tag contains the contact details, FAQs, a copyright notice to protect my work etc. All these tags enhance the user eperience. The navgation bar contains as follows:
 
-This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
+  Overview: Gives an overview of the vehicle.
 
-Hit run to see this project in action. It will auto-refresh as you edit the HTML, CSS and JS files.
+  Specs: This page contains the specific details of the vehicle.
 
-## Disable Auto Refresh
+  Fuel & Economy: This page contains the fuel and comfort details of the vehicle.
 
-If you find the auto refresh getting in your way, go to [vite.config.js](./vite.config.js) and update it set `hmr` to false to disable hot module reloading (HMR). The full config will look like this:
+  Interior: This page represents the inner beauty of the beast.
 
-```js
-export default defineConfig({
-  plugins: [],
-  server: {
-    host: '0.0.0.0',
-    hmr: false, // Change this line to `false` disable auto-refreshing.
-  }
-})
-```
+  Price: It contains price details of the vehicle.
 
-## Packages
+Technologies Used:
+  HTML
+  CSS
+  
+License:
 
-Because this template uses Vite to build your code, you can add install and use npm packages. Simple open the Packager tool to search and manage your packages.
+  This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Learn More
+Author:
 
-Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.
+  Divya Chandra Srivastava
+  
+Acknowledgements:
+
+  Inspired by beginner web development projects and online tutorials.
+  Special thanks to Codsoft and W3schools.
