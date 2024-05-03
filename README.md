@@ -13,5 +13,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgements:
 * Inspired by beginner web development projects and online tutorials.
 * Special thanks to Codsoft and W3schools.
+
     Author:
+  
     Divya Chandra Srivastava
